@@ -1,0 +1,26 @@
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "description": "Used by the GitHub action in this hosted repo to convert the markdown Resume file into a PDF file which can then be downloaded",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSharpRon/Resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "CSharpRon (Ron Marrero)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSharpRon/Resume/issues"
+  },
+  "homepage": "https://github.com/CSharpRon/Resume#readme",
+  "dependencies": {
+    "mdpdf": "^2.0.4"
+  }
+}
