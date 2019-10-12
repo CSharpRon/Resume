@@ -1,4 +1,3 @@
-# First line!
 ![Banner](banner.png)
 
 ## Robotics Projects
