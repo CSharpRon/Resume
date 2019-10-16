@@ -11,7 +11,7 @@
 > ### Master's of Science in Computer Science *(Specialization in Computational Perception & Robotics)* 
 > + Georgia Tech
 > + In progress
-> + Expected Graduation Date: May 2021  
+> + Expected Graduation Date: May 2022
 >  
 > ### Bachelor's of Science in Computer Science    
 > 
@@ -21,15 +21,15 @@
 > ### Certified Scrum Master   
 >     
 > + Certified: March 2018   
->   
-> ### Active Subscription to [Robot Ignite Academy](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros-2/)   
-> + Attended 2019 [ROSDevCon](http://www.theconstructsim.com/ros-developers-online-conference-2019-rdc-worldwide/)   
 
 
 ## Job Experience 
-> ### Software Developer - Orlando Health    
-> 
-> + January 2018 - Present
+> ### Software Engineer II - ERC (TOSC Contract at KSC)> 
+> + August 2019 - Present 
+> + Description: Support the Software Development Lifecycle related to the ground systems at Kennedy Space Center for the Artemis missions. This work includes creating software for the Launch Control Center as well as working with ground engineers to create software needed for their monitoring and operations.
+>
+> ### Software Developer - Orlando Health    > 
+> + January 2018 - August 2019
 > + Description: Design and implement new line-of-business applications for Orlando Health, as well as code bug fixes and enhancements to existing projects. 
 >
 > ### Software Developer Intern - NASA
