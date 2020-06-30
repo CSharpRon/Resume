@@ -9,10 +9,18 @@ console.log(outDir)
 let options = {
     source: path.join(outDir, 'Readme.md'),
     destination: path.join(outDir, 'Resume.pdf'),
+    defaultStyle: true,
     ghStyle: true,
+    styles: path.join(__dirname, 'styles.css'),
     pdf: {
         format: 'A4',
-        orientation: 'portrait'
+        orientation: 'portrait',
+        border: {
+            top: 30,
+            left: 30,
+            right: 30,
+            bottom: 30
+        }
     }
 };
 
