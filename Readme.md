@@ -23,8 +23,9 @@
 >     
 > + Certified: March 2018   
 
-<div style="page-break-after: always;"></div>
-## Job Experience 
+<div style="page-break-after: always;"></div>   
+
+## Job Experience  
 > ### Software Engineer: Pathways - NASA
 > <img src="https://csharpron.github.io/static/nasa-logo-svg.png" height="200" width="250" />   
 > 
